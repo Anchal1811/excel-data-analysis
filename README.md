@@ -1,61 +1,62 @@
-# 📊 Vrinda Store Data Analysis – Excel Dashboard
+# 📊 Excel Data Analysis Projects
 
-## 📌 Project Overview
-This project analyzes sales data of **Vrinda Store** using Microsoft Excel.  
-The objective is to understand customer behavior, sales trends, and channel performance through an interactive dashboard.
+This repository contains **Excel-based data analysis projects** demonstrating my skills in data cleaning, pivot tables, charts, and dashboard creation for business insights.
 
 ---
 
-## 🛠 Tools & Techniques Used
+## 📁 Projects Included
+
+---
+
+### 1️⃣ Vrinda Store Data Analysis – Excel Dashboard
+
+#### 📌 Project Overview
+Analyzed retail sales data of **Vrinda Store** to understand customer behavior, sales trends, and channel performance using Microsoft Excel.
+
+#### 🛠 Tools & Techniques
 - Microsoft Excel
 - Data Cleaning
 - Pivot Tables
 - Pivot Charts
-- Dashboard Design
+- Slicers
+- Interactive Dashboard Design
 
----
+#### 📈 Dashboard Highlights
+- Sales by Gender  
+- Orders by Sales Channel  
+- Sales by Category  
+- Monthly Sales Trend  
+- Top Performing States  
 
-## 📈 Dashboard Features
-- Sales distribution by **Gender**
-- Orders by **Sales Channel**
-- Sales by **Category**
-- **Monthly sales trend**
-- Top performing **States**
-
----
-
-## 🔍 Key Business Insights
-- Women customers contributed a higher percentage of total sales  
-- Amazon and Flipkart emerged as the top-performing sales channels  
+#### 🔍 Key Business Insights
+- Women customers contributed the majority of total sales  
+- Amazon and Flipkart were the top-performing sales channels  
 - Maharashtra and Karnataka generated the highest revenue  
-- Maximum sales were recorded during the first quarter of the year  
+- Peak sales were observed during the first quarter  
 
----
-
-## 📷 Dashboard Preview
+#### 📷 Dashboard Preview
 ![Vrinda Store Dashboard](dashboard.png)
 
----
-
-## 📁 Files in This Repository
-- `Vrinda_Store_Data_Analysis.xlsx` → Excel file containing data, pivot tables, and dashboard  
-- `dashboard.png` → Screenshot of the final dashboard  
+📂 Files:
+- `Vrinda_Store_Data_Analysis.xlsx`
+- `dashboard.png`
 
 ---
 
-## 🎯 Conclusion
-This dashboard helps stakeholders quickly understand sales performance and customer trends, enabling data-driven business decisions.  
+### 2️⃣ Sales Data Analysis – Excel Dashboard
+
+#### 📌 Project Overview
+Performed exploratory sales data analysis to identify trends across regions, product categories, and time periods using Excel.
+
+#### 🛠 Tools & Techniques
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- Dashboard Design
 
 
-
-### 2️⃣ Sales Data Analysis – Excel
-**Description:**  
-Performed exploratory sales analysis to identify trends across regions, categories, and time periods using Excel.
-
-**Key Features:**
-- Sales aggregation using pivot tables
-- Category-wise and region-wise analysis
-- Trend analysis using charts
+#### 📷 Sales Dashboard Preview
+![Sales Dashboard](salesdashboard.png)
 
 📂 Files:
 - `salesdata.xlsx`
@@ -63,18 +64,8 @@ Performed exploratory sales analysis to identify trends across regions, categori
 
 ---
 
-## 🛠 Tools & Techniques Used
-- Microsoft Excel
-- Data Cleaning
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Dashboard Design
-
----
-
 ## 🎯 Purpose of This Repository
-These projects demonstrate my ability to analyze raw data, extract meaningful insights, and present them in a clear, business-friendly format using Excel.
+These projects showcase my ability to analyze raw data, extract meaningful insights, and present them in a clear, business-friendly format using Excel.
 
 ---
 
