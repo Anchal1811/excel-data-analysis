@@ -59,6 +59,7 @@ Performed exploratory sales analysis to identify trends across regions, categori
 
 📂 Files:
 - `salesdata.xlsx`
+- `salesdashboard.png`
 
 ---
 
