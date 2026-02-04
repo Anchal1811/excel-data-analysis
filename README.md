@@ -44,4 +44,38 @@ The objective is to understand customer behavior, sales trends, and channel perf
 ---
 
 ## 🎯 Conclusion
-This dashboard helps stakeholders quickly understand sales performance and customer trends, enabling data-driven business decisions.
+This dashboard helps stakeholders quickly understand sales performance and customer trends, enabling data-driven business decisions.  
+
+
+
+### 2️⃣ Sales Data Analysis – Excel
+**Description:**  
+Performed exploratory sales analysis to identify trends across regions, categories, and time periods using Excel.
+
+**Key Features:**
+- Sales aggregation using pivot tables
+- Category-wise and region-wise analysis
+- Trend analysis using charts
+
+📂 Files:
+- `salesdata.xlsx`
+
+---
+
+## 🛠 Tools & Techniques Used
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
+
+---
+
+## 🎯 Purpose of This Repository
+These projects demonstrate my ability to analyze raw data, extract meaningful insights, and present them in a clear, business-friendly format using Excel.
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Anchal1811
